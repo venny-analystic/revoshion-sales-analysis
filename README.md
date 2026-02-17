@@ -38,6 +38,9 @@ Tableau (Marketing Performance Dashboard)
 - *Discount vs. Profitability Scatter Plot*: A visual showing the correlation between the 18% average discount rate and the resulting margin erosion.
 - *B2B Strategy Roadmap*: A flowchart or table outlining the five integrated strategies (ABM, LinkedIn Ads, Logistics, etc.) for financial recovery.
 
+## Project Files
+- RevoShion_Sales_Analysis.pdf : Project presentation
+
 ## Author
 Venny Amilia Deslaweny
 
