@@ -1,4 +1,4 @@
-# Profit Decline in Corporate Segment (RevoShion)
+# Profit Decline in Corporate Segment RevoShion
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 ### Summary/Context
