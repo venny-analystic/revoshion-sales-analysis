@@ -56,15 +56,22 @@ The analysis follows a structured business analysis framework:
 
 ## KEY INSIGHTS
 • The Corporate segment experienced a 13.6% profit decline despite revenue growth due to aggressive discounting and high logistics costs.
+
 • Discount rates exceeding 18% significantly reduced margins in the corporate segment.
+
 • Logistics costs for heavy office items contributed disproportionately to cost increases.
+
 • The Consumer segment remained the most stable and profitable customer segment.
 
 ## BUSINESS IMPACT
 The analysis provides actionable strategies to restore profitability in the Corporate segment by:
+
 • Reducing excessive discounting strategies
+
 • Optimizing logistics for heavy products
+
 • Targeting high-value corporate clients using Account-Based Marketing
+
 • Reallocating marketing budget to higher ROI channels
 
 ## Project Files
