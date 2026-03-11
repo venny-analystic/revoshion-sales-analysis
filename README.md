@@ -1,4 +1,4 @@
-# Profit Decline in Corporate Segment RevoShion
+# Revoshion Profit Decline in Corporate Segment
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 ### Summary/Context
@@ -30,6 +30,7 @@ Tableau (Marketing Performance Dashboard)
 - Account-Based Marketing (ABM)
 - A/B Testing (Proposed for ad creatives)
 - Trend Analysis (+20.4% Sales vs +14.2% Profit)
+
 
 ## SECTION 4: VISUAL SUGGESTIONS
 - *Tableau Marketing Dashboard*: A visual showing the Sales ($733.2K), Profit ($93.4K), and #Orders (1,687) as seen on the project slides.
