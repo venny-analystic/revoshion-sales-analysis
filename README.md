@@ -1,4 +1,4 @@
-# Revoshion Profit Decline in Corporate Segment
+# Revoshion Profit Analysis
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 ### Summary/Context
@@ -21,7 +21,8 @@ Analysis identified that excessive discounting and high logistics costs for heav
 
 ## SECTION 3: TOOLS & METHODS
 ### A. Tools
-Tableau (Marketing Performance Dashboard)
+- Tableau (Marketing Performance Dashboard)
+- Spreadsheet Analysis (Data preparation and KPI calculations)
 
 ### B. Methods
 - Segment Analysis (Corporate vs. Consumer vs. Home Office)
@@ -40,6 +41,31 @@ https://docs.google.com/presentation/d/1eO3HFrBeS4CYGemn4mPQBLbhZUajZMkSJS8jp4Bc
 - *Geographic Sales Map*: A visualization of Sales by State to identify regional performance hotspots and logistics challenges.
 - *Discount vs. Profitability Scatter Plot*: A visual showing the correlation between the 18% average discount rate and the resulting margin erosion.
 - *B2B Strategy Roadmap*: A flowchart or table outlining the five integrated strategies (ABM, LinkedIn Ads, Logistics, etc.) for financial recovery.
+### Analytical Framework
+The analysis follows a structured business analysis framework:
+1. Problem Identification
+   Identifying the 13.6% profit decline in the Corporate segment despite overall company growth.
+2. Diagnostic Analysis
+   Investigating the drivers behind margin erosion including discount rates and logistics costs.
+3. Segmentation Analysis
+   Comparing performance across Consumer, Corporate, and Home Office segments.
+4. Strategic Evaluation
+   Assessing marketing channels, customer acquisition strategies, and operational cost structures.
+5. Strategic Recommendations
+   Developing integrated recovery strategies focusing on pricing optimization, logistics efficiency, and targeted marketing.
+
+## KEY INSIGHTS
+• The Corporate segment experienced a 13.6% profit decline despite revenue growth due to aggressive discounting and high logistics costs.
+• Discount rates exceeding 18% significantly reduced margins in the corporate segment.
+• Logistics costs for heavy office items contributed disproportionately to cost increases.
+• The Consumer segment remained the most stable and profitable customer segment.
+
+## BUSINESS IMPACT
+The analysis provides actionable strategies to restore profitability in the Corporate segment by:
+• Reducing excessive discounting strategies
+• Optimizing logistics for heavy products
+• Targeting high-value corporate clients using Account-Based Marketing
+• Reallocating marketing budget to higher ROI channels
 
 ## Project Files
 - RevoShion-Business-Analysis.pdf : Project presentation
