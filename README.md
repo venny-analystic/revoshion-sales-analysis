@@ -31,6 +31,8 @@ Tableau (Marketing Performance Dashboard)
 - A/B Testing (Proposed for ad creatives)
 - Trend Analysis (+20.4% Sales vs +14.2% Profit)
 
+### Dataset Source:  
+https://docs.google.com/presentation/d/1eO3HFrBeS4CYGemn4mPQBLbhZUajZMkSJS8jp4Bcvu8/edit?slide=id.g2ac3f0fa927_0_5#slide=id.g2ac3f0fa927_0_5
 
 ## SECTION 4: VISUAL SUGGESTIONS
 - *Tableau Marketing Dashboard*: A visual showing the Sales ($733.2K), Profit ($93.4K), and #Orders (1,687) as seen on the project slides.
@@ -40,7 +42,7 @@ Tableau (Marketing Performance Dashboard)
 - *B2B Strategy Roadmap*: A flowchart or table outlining the five integrated strategies (ABM, LinkedIn Ads, Logistics, etc.) for financial recovery.
 
 ## Project Files
-- RevoShion_Sales_Analysis.pdf : Project presentation
+- RevoShion-Business-Analysis.pdf : Project presentation
 
 ## Author
 Venny Amilia Deslaweny
